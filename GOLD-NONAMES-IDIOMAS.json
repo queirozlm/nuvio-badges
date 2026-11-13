@@ -1211,7 +1211,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF0000",
+      "borderColor": "#009C3B",
       "groupId": "language",
       "id": "l-pt-pt",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/badges/LANG%20PT.png",
@@ -1219,10 +1219,10 @@
       "name": "POR",
       "pattern": "(?i)(?<![^\\s\\[(_\\-.,])(portuguese(?!(?:[ .\\-_]?brazil))|portuguese[ .\\-_]?(?:portugal|europe(?:an)?)|pt[ .\\-_]?pt)(?![ .\\-_]?sub(title)?s?)(?=[\\s\\)\\]_.\\-,]|$)",
       "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
-    },
+    }
     {
       "borderColor": "#FFE30A17",
       "groupId": "language",
