@@ -1222,7 +1222,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
-    }
+    },
     {
       "borderColor": "#FFE30A17",
       "groupId": "language",
